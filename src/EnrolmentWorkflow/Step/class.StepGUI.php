@@ -20,7 +20,7 @@ use srag\RequiredData\SrUserEnrolment\Field\FieldsCtrl;
  * @package           srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Step
  *
  * @ilCtrl_isCalledBy srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Step\StepGUI: srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Step\StepsGUI
- * @ilCtrl_isCalledBy srag\RequiredData\SrUserEnrolment\Field\FieldsCtrl: srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Step\StepGUI
+ * @ilCtrl_isCalledBy srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Step\StepGUI: srag\RequiredData\SrUserEnrolment\Field\FieldsCtrl
  */
 class StepGUI
 {

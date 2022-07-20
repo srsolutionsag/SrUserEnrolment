@@ -19,7 +19,7 @@ use srag\Plugins\SrUserEnrolment\Utils\SrUserEnrolmentTrait;
  * @package           srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Action
  *
  * @ilCtrl_isCalledBy srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Action\ActionGUI: srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Action\ActionsGUI
- * @ilCtrl_isCalledBy srag\CustomInputGUIs\SrUserEnrolment\MultiSelectSearchNewInputGUI\UsersAjaxAutoCompleteCtrl: srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Action\ActionGUI
+ * @ilCtrl_isCalledBy srag\Plugins\SrUserEnrolment\EnrolmentWorkflow\Action\ActionGUI: srag\CustomInputGUIs\SrUserEnrolment\MultiSelectSearchNewInputGUI\UsersAjaxAutoCompleteCtrl
  */
 class ActionGUI
 {
